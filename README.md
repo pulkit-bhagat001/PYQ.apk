@@ -2,10 +2,10 @@
 
 This project allows you to download the year-wise papers from various courses. To get started, follow the steps below.
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/pulkit-bhagat001/PYQ.apk/raw/main/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/43cfca50-9e31-4a08-be78-f34cbcdb4275
+
+
 
 ## Prerequisites
 
