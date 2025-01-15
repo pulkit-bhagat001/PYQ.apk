@@ -2,6 +2,11 @@
 
 This project allows you to download the year-wise papers from various courses. To get started, follow the steps below.
 
+<video width="640" height="360" controls>
+  <source src="https://github.com/pulkit-bhagat001/PYQ.apk/raw/main/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Prerequisites
 
 Before you start using this app, you need to set up Firebase in your project.
