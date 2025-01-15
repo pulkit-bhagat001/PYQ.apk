@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/43cfca50-9e31-4a08-be78-f34cbcdb4275
 
 ## Prerequisites
 
-Before you start using this app, you need to set up Firebase in your project.
+Before you start using this project from Android Studio, you need to set up Firebase in your project.
 
 ### 1. Configure Firebase
 
